@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Artists</key>
+	<dict>
+		<key>General</key>
+		<array>
+			<string>Michael Jackson</string>
+			<string>Lady Gaga</string>
+			<string>Beatles</string>
+			<string>Sting</string>
+		</array>
+	</dict>
+	<key>REVMOBTIMER</key>
+	<string>800.0</string>
+	<key>tMainUrl</key>
+	<string>http://tamburafeed.appspot.com/gettamburamain</string>
+	<key>ADMOB</key>
+	<false/>
+	<key>DISABLESKIP</key>
+	<false/>
+	<key>DISABLE_FB_LOGIN</key>
+	<true/>
+	<key>tGenreUrl</key>
+	<string>http://tamburafeed.appspot.com/getlatest4mmuse?genre=Hindi</string>
+	<key>Language</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Tamil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Telugu</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hindi</string>
+		</dict>
+	</array>
+	<key>Playlist</key>
+	<dict>
+		<key>Punjabi</key>
+		<string>PLHuHXHyLu7BG4XrfduvRCdUTDsdr5y0Px</string>
+		<key>Hindi</key>
+		<string>PLumuiNc3pWTl-S9P_Lhnd1re1pwB61lxH</string>
+		<key>Tamil</key>
+		<string>PLgxlkSiri4Wd6iuAOWOH6C8pwN6k1qpCo</string>
+		<key>Telugu</key>
+		<string>PL0ZpYcTg19EFn82569Lk5Sq0jhbmcczeC</string>
+	</dict>
+	<key>UserPlaylist</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Sample - Add your own Playlist</string>
+			<key>plID</key>
+			<string>PLgspcG46J4mzcpwf8XZaR7EznarFjczPP</string>
+		</dict>
+	</array>
+</dict>
+</plist>
